@@ -1,0 +1,1 @@
+"""Persistent Telegram reaction scoreboard."""

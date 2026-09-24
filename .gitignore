@@ -1,0 +1,12 @@
+api.ini
+*.ini.local
+.env
+.venv/
+__pycache__/
+*.py[cod]
+data/
+*.sqlite*
+*.db*
+*.csv
+.pytest_cache/
+*.log
